@@ -1,0 +1,12 @@
+insert into salle (name , max , material) values ('E1001',23,'');
+insert into salle (name , max , material) values ('E1002',10,'Ecran');
+insert into salle (name , max , material) values ('E1003',8,'Pieuvre');
+insert into salle (name , max , material) values ('E1004',4,'Tableau');
+insert into salle (name , max , material) values ('E2001',4,'');
+insert into salle (name , max , material) values ('E2002',15,'Ecran,WebCam');
+insert into salle (name , max , material) values ('E2003',7,'');
+insert into salle (name , max , material) values ('E2004',9,'Tableau');
+insert into salle (name , max , material) values ('E3001',13,'Ecran,WebCam,Pieuvre');
+insert into salle (name , max , material) values ('E3002',8,'');
+insert into salle (name , max , material) values ('E3003',9,'Ecran,Pieuvre');
+insert into salle (name , max , material) values ('E3004',4,'');
